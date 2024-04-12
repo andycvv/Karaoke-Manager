@@ -2,6 +2,8 @@
 
 ¡Bienvenido al Karaoke Manager! 🎉 Este es el lugar donde la diversión nunca termina y la música nunca para. Con nuestra plataforma de gestión de karaoke, llevar la experiencia del karaoke al siguiente nivel nunca ha sido tan fácil y emocionante. 💃🕺
 
+![Karaoke Manager](img/karaoke_manager.png)
+
 ## Descripción
 
 ¡Prepárate para una experiencia épica de karaoke con nuestro sistema de gestión todo en uno! Desde la selección de canciones hasta el registro de pedidos de bebidas y piqueos, hemos creado una plataforma que hace que la organización de tu karaoke sea más divertida que nunca.
@@ -33,8 +35,6 @@
 
 Nuestro objetivo es simple: ¡hacer que cada visita al karaoke sea inolvidable! Con un diseño atractivo, funcionalidades emocionantes y una actitud festiva en el corazón de todo lo que hacemos, estamos aquí para que tu karaoke sea la mejor fiesta de todas. ¡Vamos a cantar, bailar y crear recuerdos que durarán toda la vida! 🎉🎤🎶
 
----
-
 ## Usuarios Predefinidos 🎵👤
 
 ¡No te preocupes por la configuración inicial! Incluimos algunos usuarios predefinidos para que puedas empezar a usar el Karaoke Manager de inmediato:
@@ -64,3 +64,9 @@ Nuestro objetivo es simple: ¡hacer que cada visita al karaoke sea inolvidable! 
    - **Contraseña:** 3286025
 
 ¡Listo para empezar a rockear con el Karaoke Manager! 🚀🎶
+
+![Mantenimiento de Usuario](img/mantenimiento_usuario.png)
+![Registro de Pedido](img/registro_pedido.png)
+![Registro de Consumo](img/registro_consumo.png)
+![Pedidos Por Rango de Fechas](img/pedidos_por_fecha.png)
+![Consumos Registrados](img/consumos_registrados.png)
