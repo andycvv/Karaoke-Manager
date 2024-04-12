@@ -32,3 +32,35 @@
 ## Objetivo del Proyecto
 
 Nuestro objetivo es simple: ¡hacer que cada visita al karaoke sea inolvidable! Con un diseño atractivo, funcionalidades emocionantes y una actitud festiva en el corazón de todo lo que hacemos, estamos aquí para que tu karaoke sea la mejor fiesta de todas. ¡Vamos a cantar, bailar y crear recuerdos que durarán toda la vida! 🎉🎤🎶
+
+---
+
+## Usuarios Predefinidos 🎵👤
+
+¡No te preocupes por la configuración inicial! Incluimos algunos usuarios predefinidos para que puedas empezar a usar el Karaoke Manager de inmediato:
+
+1. **Admin1**
+   - **Login:** n0001
+   - **Contraseña:** 159263
+
+2. **Admin2**
+   - **Login:** n0006
+   - **Contraseña:** 234567
+
+3. **Supervisor1**
+   - **Login:** n0002
+   - **Contraseña:** 123456
+
+4. **Supervisor2**
+   - **Login:** n0003
+   - **Contraseña:** 235123
+
+5. **Mozo1**
+   - **Login:** n0004
+   - **Contraseña:** 280205
+
+6. **Mozo2**
+   - **Login:** n0005
+   - **Contraseña:** 3286025
+
+¡Listo para empezar a rockear con el Karaoke Manager! 🚀🎶
