@@ -61,7 +61,7 @@ Nuestro objetivo es simple: ¡hacer que cada visita al karaoke sea inolvidable! 
    - **Login:** n0005
    - **Contraseña:** 3286025
 
-¡Recuerda que el programa debe abrirse desde el archivo de inicio de sesión!
+¡Recuerda que el programa debe abrirse desde el archivo de inicio de sesión(login.java)!
 
 ![Inicio de Sesión](img/inicio_sesion.png)
 ![Mantenimiento de Usuario](img/mantenimiento_usuario.png)
