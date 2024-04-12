@@ -1,0 +1,6 @@
+USU001;Vargas;Vargas;Andy;1;n0001;159263;2;
+USU002;Aucassi;Loa;Yadira;2;n0002;123456;1;
+USU003;Meza;Chanco;Brahayan;2;n0003;235123;1;
+USU004;Morales;Rojas;Jhon;3;n0004;280205;2;
+USU005;Aquino;Rosas;Jose Luis;3;n0005;3286025;1;
+USU006;Alvarado;Huamani;Ricardo;1;n0006;234567;1;

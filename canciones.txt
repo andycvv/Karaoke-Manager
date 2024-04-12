@@ -1,0 +1,8 @@
+CAN0001;Con Calma;ART002;Single;Sat Nov 25 00:00:00 COT 2023;9;true;
+CAN0002;Dákiti;ART009;Single;Sat Nov 18 00:00:00 COT 2023;6;true;
+CAN0003;Baila Baila Baila;ART011;Nibiru;Wed Nov 22 00:00:00 COT 2023;6;true;
+CAN0004;Juicy;ART003;Ready to Die;Tue Oct 24 00:00:00 COT 2023;2;true;
+CAN0005;Like a Virgin;ART004;Like a Virgin;Thu Nov 02 00:00:00 COT 2023;0;true;
+CAN0006;No Woman No Cry;ART007;Natty Dread;Mon Nov 13 00:00:00 COT 2023;0;true;
+CAN0007;Johnny B Goode;ART005;Chuck Berry Is on Top;Sat Nov 25 00:00:00 COT 2023;1;true;
+CAN0008;Billie Jean;ART008;Thriller;Tue Nov 14 00:00:00 COT 2023;0;true;

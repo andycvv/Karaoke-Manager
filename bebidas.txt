@@ -1,0 +1,3 @@
+BEB001;Vino Tinto;2;Santiago Queirolo;30.5;true;
+BEB002;nombre2;4;BARAIMA;60.5;false;
+BEB003;Blue Label;3;JOHNNIE WALKER;1100.0;true;

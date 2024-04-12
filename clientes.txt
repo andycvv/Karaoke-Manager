@@ -1,0 +1,6 @@
+CLI0001;Vivanco;Arone;Maria Fernanda;Lima, Puente Piedra;Wed Aug 10 00:00:00 COT 2005;Sat Nov 25 00:00:00 COT 2023;Soltero;964155758;87980976;3
+CLI0002;Canchari;Collantes;Juan David;Lima, Los Olivos;Wed Feb 04 00:00:00 COT 2004;Mon Nov 27 00:00:00 COT 2023;Casado;912624177;85960798;2
+CLI0003;Machuca;Isla;Norka Leydi Luz;Lima, Carabayllo;Mon Jun 20 00:00:00 COT 2005;Tue Nov 28 00:00:00 COT 2023;Soltero;976466180;76546578;4
+CLI0004;Ramos;Paredes;Wilhidael;Lima, Comas;Fri Mar 10 00:00:00 COT 2000;Tue Nov 28 00:00:00 COT 2023;Divorciado;984404515;87675676;3
+CLI0005;Recuay;Recuay;Piero Alessandro;Lima, San Martin de Porres;Thu Jun 10 00:00:00 COT 2004;Wed Nov 29 00:00:00 COT 2023;Casado;982015258;75849568;3
+CLI0006;Laura;Garcia;Lenin Antony;Lima, Comas;Tue Oct 14 00:00:00 COT 2003;Wed Nov 29 00:00:00 COT 2023;Viudo;921934951;67582312;3

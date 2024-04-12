@@ -1,0 +1,11 @@
+ART001;Elvis Presley;GEN01;Sun Oct 15 00:00:00 COT 2023;true;
+ART002;Daddy Yankee;GEN05;Fri Oct 20 00:00:00 COT 2023;true;
+ART003;Notorious BIG;GEN03;Sat Oct 21 00:00:00 COT 2023;true;
+ART004;Madonna;GEN04;Wed Nov 01 00:00:00 COT 2023;true;
+ART005;Chuck Berry;GEN01;Thu Nov 02 00:00:00 COT 2023;true;
+ART006;Ella Fitzgerald;GEN02;Thu Nov 09 00:00:00 COT 2023;true;
+ART007;Bob Marley;GEN05;Sun Nov 12 00:00:00 COT 2023;true;
+ART008;Michael Jackson;GEN04;Mon Nov 13 00:00:00 COT 2023;true;
+ART009;Bad Bunny;GEN05;Sat Nov 18 00:00:00 COT 2023;true;
+ART010;Wolfgang Mozart;GEN06;Sun Nov 19 00:00:00 COT 2023;true;
+ART011;Ozuna;GEN05;Wed Nov 22 00:00:00 COT 2023;true;

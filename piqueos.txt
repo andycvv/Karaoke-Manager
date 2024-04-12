@@ -1,0 +1,7 @@
+PIQ001;Papays Lays;3;7.5;false;
+PIQ002;Pringles;3;10.5;true;
+PIQ003;Chisitos;3;12.5;true;
+PIQ004;Tequeños;2;15.0;true;
+PIQ005;Papas fritas;2;10.0;true;
+PIQ006;Minibrochetas;1;12.0;true;
+PIQ007;Bocadito Capresse;1;5.0;true;

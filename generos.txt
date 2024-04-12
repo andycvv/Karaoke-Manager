@@ -1,0 +1,6 @@
+GEN01;Rock;1950;true;
+GEN02;Jazz;1920;true;
+GEN03;Hip Hop;1970;true;
+GEN04;Pop;1990;true;
+GEN05;Reggaeton;2000;true;
+GEN06;Clásica;1950;true;
