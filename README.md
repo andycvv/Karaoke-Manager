@@ -2,8 +2,6 @@
 
 ¡Bienvenido al Karaoke Manager! 🎉 Este es el lugar donde la diversión nunca termina y la música nunca para. Con nuestra plataforma de gestión de karaoke, llevar la experiencia del karaoke al siguiente nivel nunca ha sido tan fácil y emocionante. 💃🕺
 
-![Karaoke Manager](img/karaoke_manager.png)
-
 ## Descripción
 
 ¡Prepárate para una experiencia épica de karaoke con nuestro sistema de gestión todo en uno! Desde la selección de canciones hasta el registro de pedidos de bebidas y piqueos, hemos creado una plataforma que hace que la organización de tu karaoke sea más divertida que nunca.
