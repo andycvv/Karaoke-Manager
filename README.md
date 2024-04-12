@@ -61,8 +61,9 @@ Nuestro objetivo es simple: ¡hacer que cada visita al karaoke sea inolvidable! 
    - **Login:** n0005
    - **Contraseña:** 3286025
 
-¡Listo para empezar a rockear con el Karaoke Manager! 🚀🎶
+¡Recuerda que el programa debe abrirse desde el archivo de inicio de sesión!
 
+![Inicio de Sesión](img/inicio_sesion.png)
 ![Mantenimiento de Usuario](img/mantenimiento_usuario.png)
 ![Registro de Pedido](img/registro_pedido.png)
 ![Registro de Consumo](img/registro_consumo.png)
